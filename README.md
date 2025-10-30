@@ -18,7 +18,6 @@ python get.json.py -h
 <br>
 
 ```
-
 ┌──(kali㉿localhost)-[~/JSON]
 └─$ python get.json.py -h
 usage: get.json.py [-h] [--cookies-to-json] [--headers-to-json] [--html-to-json] [--javascript-to-json] [--text-to-json] [--image-links-to-json]
@@ -60,6 +59,6 @@ options:
 <br>
 
 # Updated On
-``Oct 29, 2025``
+``Oct 30, 2025``
 
 <br>
