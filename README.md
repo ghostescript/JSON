@@ -12,6 +12,11 @@ python get.json.py -h
 
 <br>
 
+# Help Message 
+![alt text](https://raw.githubusercontent.com/ghostescript/JSON/refs/heads/main/files/20251030_002620.jpg)
+
+<br>
+
 # Updated On
 ``Oct 29, 2025``
 
